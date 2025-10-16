@@ -10,7 +10,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost', '123.123.123.123', '127.0.0.1', '51.250.27.166',
-    'praktikuem.hopto.org', 'backend'
+    'praktikuem.hopto.org', 'backend', 'praktikuem.ddns.net'
 ]
 
 
